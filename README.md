@@ -16,7 +16,7 @@ This is an Udacity Nanodegree project.
 
 I am using FIFA19 data set from Kaggle for Analysis.
 
-I am Attend 3 question.
+ I will focus on the questions below
 
 Que 1. Who are the Top 5 Highly Paid Players?
 
