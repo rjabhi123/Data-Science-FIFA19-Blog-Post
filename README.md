@@ -34,3 +34,8 @@ data.csv : This is a dataset taken from kaggle for Analysis.
 
 The main results of the code can be found at the post available [here](https://medium.com/@rabhimanyu509/fifa19-analysis-3a4fff4dfdf).
 
+# Licensing, Authors, Acknowledgements
+
+I am using FIFA19 data from Kaggle. So here, You can find the Licensing for the data from kaggle and other descriptive information. Otherwise, feel free to use the code.I want to thank the Udacity Data Science Nano-Degree Program for giving me this opportunity to do the project.
+
+
