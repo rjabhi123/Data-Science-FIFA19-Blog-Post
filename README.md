@@ -32,5 +32,5 @@ data.csv : This is a dataset taken from kaggle for Analysis.
 
 # Results
 
-The main results of the code can be found at the post available [here](//https://medium.com/@rabhimanyu509/fifa19-analysis-3a4fff4dfdf).
+The main results of the code can be found at the post available [here](https://medium.com/@rabhimanyu509/fifa19-analysis-3a4fff4dfdf).
 
