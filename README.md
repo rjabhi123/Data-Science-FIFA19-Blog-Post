@@ -8,4 +8,4 @@
 
 # Installation
 
-This Project require Numpy,Pandas,Matplotlib and Scikitlearn which we will get by installing Anaconda.
+This Project require Numpy,Pandas,Matplotlib and Scikitlearn which we will get by installing Anaconda with Python 3.
