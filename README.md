@@ -28,4 +28,9 @@ Que 3. Which top 5 Nations have the greatest number of Players in the FIFA 19 da
 
 Data-Science-FIFA19-Blog-Post.ipynb : This is an Jupyter Notebook containing the data analysis.
 
-data.csv :This is a dataset taken from kaggle for Analysis.
+data.csv : This is a dataset taken from kaggle for Analysis.
+
+# Results
+
+The main results of the code can be found at the post available [here](//https://medium.com/@rabhimanyu509/fifa19-analysis-3a4fff4dfdf).
+
