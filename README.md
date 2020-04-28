@@ -23,3 +23,9 @@ Que 1. Who are the Top 5 Highly Paid Players?
 Que 2. Find top 5 clubs with highest total player market value, and the highest average player wage
  
 Que 3. Which top 5 Nations have the greatest number of Players in the FIFA 19 dataset?
+
+# File Descriptions
+
+Data-Science-FIFA19-Blog-Post.ipynb : This is an Jupyter Notebook containing the data analysis.
+
+data.csv :This is a dataset taken from kaggle for Analysis.
