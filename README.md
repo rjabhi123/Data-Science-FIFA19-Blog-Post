@@ -6,3 +6,6 @@
 4. Results
 5. Licensing, Authors, and Acknowledgements
 
+# Installation
+
+This Project require Numpy,Pandas,Matplotlib and Scikitlearn which we will get by installing Anaconda.
