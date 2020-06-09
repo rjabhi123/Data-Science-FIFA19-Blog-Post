@@ -1,11 +1,11 @@
 # Data Science FIFA 19 Blog Post
 This is a fifa 19 blog post.
 ## Table of Contents
-1. Instalation
-2. Project Motivation
-3. File Description
-4. Results
-5. Licensing, Authors, and Acknowledgements
+1. Instalation.
+2. Project Motivation.
+3. File Description.
+4. Results.
+5. Licensing, Authors, and Acknowledgements.
 
 # Installation
 
